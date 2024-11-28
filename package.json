@@ -1,20 +1,20 @@
 {
-  "name": "mueller-template",
-  "version": "1.0.0",
-  "description": "Mueller - Creative Agency Template",
-  "main": "index.js",
-  "scripts": {
-    "start": "serve",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "template",
-    "agency",
-    "creative"
-  ],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "serve": "^14.2.1"
-  }
+    "name": "autonomos",
+    "version": "1.0.0",
+    "description": "autonomos landing page",
+    "main": "index.js",
+    "scripts": {
+        "start": "serve",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "template",
+        "agency",
+        "creative"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "serve": "^14.2.1"
+    }
 }
